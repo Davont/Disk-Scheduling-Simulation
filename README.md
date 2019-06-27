@@ -1,6 +1,6 @@
 # 磁盘调度模拟算法
 
-*对他人磁盘调度算法[项目](https://github.com/zxlmaster/system)的改善~~（好吧其实又是个程序大作业）~~*
+*对他人磁盘调度算法[项目](https://github.com/zxlmaster/system)的改善 ~~（好吧其实又是个程序大作业）~~*
 
 #### 需求如下
 
